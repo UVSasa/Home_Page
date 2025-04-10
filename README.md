@@ -6,7 +6,7 @@ Welcome to my cybersecurity home lab! This repository documents my journey and p
 
 ## 🧠 What I’m Learning
 
-- ✅ Setting up and configuring a SIEM (Security Information and Event Management) system using **Wazuh** and **ELK**
+- ✅ Setting up and configuring a SIEM/EDR (Security Information and Event Management/Endpoint Detection and Response) system using **Wazuh** and **ELK**
 - ✅ Monitoring endpoint logs from Windows and Linux systems
 - ✅ Performing file integrity monitoring (FIM), vulnerability detection, and user activity tracking
 - ✅ Running MITM (Man-in-the-Middle) attacks safely in an offline lab using **Kali Linux** and **Ettercap**
@@ -31,7 +31,7 @@ Welcome to my cybersecurity home lab! This repository documents my journey and p
 
 ## 📊 Projects & Experiments
 
-### 🔍 1. Log Monitoring with Wazuh: [🔍 Wazuh SIEM Lab](https://github.com/UVSasa/Wazuh-Siem)
+### 🔍 1. Log Monitoring with Wazuh: [🔍 Wazuh EDR Lab](https://github.com/UVSasa/Wazuh-Siem)
 - Monitored failed login attempts and privilege escalation on Windows
 - Added custom rules for Event ID 4672 and unusual registry changes
 
