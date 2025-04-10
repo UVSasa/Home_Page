@@ -31,7 +31,7 @@ Welcome to my cybersecurity home lab! This repository documents my journey and p
 
 ## 📊 Projects & Experiments
 
-### 🔍 1. Log Monitoring with Wazuh
+### 🔍 1. Log Monitoring with Wazuh: [🔍 Wazuh SIEM Lab](https://github.com/your-username/Wazuh-SIEM-Lab)
 - Monitored failed login attempts and privilege escalation on Windows
 - Added custom rules for Event ID 4672 and unusual registry changes
 
