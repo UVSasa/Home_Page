@@ -31,20 +31,18 @@ Welcome to my cybersecurity home lab! This repository documents my journey and p
 
 ## 📊 Projects & Experiments
 
-### 🔍 1. Log Monitoring with Wazuh: [🔍 Wazuh EDR Lab](https://github.com/UVSasa/Wazuh-Siem)
-- Monitored failed login attempts and privilege escalation on Windows
-- Added custom rules for Event ID 4672 and unusual registry changes
+### 🔍 1. Network Defense(Blue Team): [🔍 Wazuh EDR Lab](https://github.com/UVSasa/Wazuh-Siem)
+- Log Monitoring with Wazuh EDR
+- Vulnerability Detection
+- File Integrity Monitoring
 
-### 🛠️ 2. File Integrity Monitoring
-- Tracked changes to sensitive system files
-- Alerted on file creation and modification in user directories
+### 🛠️ 2. Offensive Security (Red Team)
+- Reconnaissance & Information Gathering
+- Vulnerability Scanning & Analysis
+- Exploitation
+- Web Application Attacks(Coming soon)
 
-### 🧬 3. Vulnerability Detection
-- Scanned Windows endpoints for known CVEs
-- Used Wazuh’s vulnerability-detector module
-
-### ⚔️ 4. Offensive Testing with Kali Linux
-- Simulated network sniffing, MITM, and DNS spoofing attacks
-- Practiced safely in an offline lab setup
+### 🧬 3. Forensics
+- Coming Soon
 
 ---
