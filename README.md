@@ -31,18 +31,23 @@ Welcome to my cybersecurity home lab! This repository documents my journey and p
 
 ## 📊 Projects & Experiments
 
-### 🔍 1. Network Defense(Blue Team): [🔍 Wazuh EDR Lab](https://github.com/UVSasa/Wazuh-Siem)
+### 🔍 1. Wazuh : [🔍 Wazuh EDR Lab](https://github.com/UVSasa/Wazuh-Siem)
 - Log Monitoring with Wazuh EDR
 - Vulnerability Detection
 - File Integrity Monitoring
 
-### 🛠️ 2. Offensive Security (Red Team)
+### 2. Network Defense (Blue Team):
+- Log Monitoring with Wazuh EDR
+- Vulnerability Detection
+- File Integrity Monitoring
+
+### 🛠️ 3. Offensive Security (Red Team): 
 - Reconnaissance & Information Gathering
 - Vulnerability Scanning & Analysis
 - Exploitation
 - Web Application Attacks(Coming soon)
 
-### 🧬 3. Forensics
+### 🧬 4. Forensics
 - Coming Soon
 
 ---
