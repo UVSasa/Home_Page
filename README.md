@@ -29,7 +29,7 @@ Welcome to my cybersecurity home lab! This repository documents my journey and p
 
 ---
 
-## 🧪 Projects & Experiments Projec Network Defense (Blue Team) ts & Experiments
+## 🧪 Projects 
  
 ### ⚙️ 1. Wazuh Lab Setup (SIEM & EDR Foundations) : [🔍 Wazuh EDR Lab](https://github.com/UVSasa/Wazuh-Siem)
 - Configuration of Wazuh Agent and manager
@@ -38,22 +38,17 @@ Welcome to my cybersecurity home lab! This repository documents my journey and p
 - Installed and configured Sysmon for enriched Windows telemetry
 - Tuned default rules to reduce noise from legitiamte system activity
 
-Network
+### 🛡️ 2. Network Defense (Blue Team)
+- Log Monitoring: Tracked failed logins, privilege escalations (e.g., Event ID 4672), and unusual process activity
+- Vulnerability Detection: Used Wazuh’s vulnerability-detector to identify known CVEs on Windows endpoints
+- File Integrity Monitoring: Monitored system files and user directories for suspicious changes or DLL injections
+- Rule Tuning: Differentiated between benign system events and potential attacks (e.g., analyzing svchost and DLL creation)
 
-###🛡️ 2. Network Defense (Blue Team)
-	•	Log Monitoring: Tracked failed logins, privilege escalations (e.g., Event ID 4672), and unusual process activity
-	•	Vulnerability Detection: Used Wazuh’s vulnerability-detector to identify known CVEs on Windows endpoints
-	•	File Integrity Monitoring: Monitored system files and user directories for suspicious changes or DLL injections
-	•	Rule Tuning: Differentiated between benign system events and potential attacks (e.g., analyzing svchost and DLL creation)
-
-⸻
-
-⚔️ 3. Offensive Security (Red Team)
-	•	Reconnaissance & Information Gathering: Identified hosts, services, and open ports within the offline lab
-	•	Vulnerability Scanning & Analysis: Scanned targets using tools like Nmap and Nikto to enumerate weaknesses
-	•	Exploitation: Simulated attacks to test defensive visibility (e.g., MITM, DNS spoofing)
-	•	Web Application Attacks: (Coming soon) — Will simulate OWASP Top 10-style attacks on a local vulnerable web app
-
+### ⚔️ 3. Offensive Security (Red Team)
+- Reconnaissance & Information Gathering: Identified hosts, services, and open ports within the offline lab
+- Vulnerability Scanning & Analysis: Scanned targets using tools like Nmap and Nikto to enumerate weaknesses
+- Exploitation: Simulated attacks to test defensive visibility (e.g., MITM, DNS spoofing)
+- Web Application Attacks: (Coming soon) — Will simulate OWASP Top 10-style attacks on a local vulnerable web app
 
 ### 🧬 4. Forensics
 - Coming Soon
