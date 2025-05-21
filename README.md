@@ -29,25 +29,18 @@ Welcome to my cybersecurity home lab! This repository documents my journey and p
 
 ---
 
-## 📊 Projects & Experiments
+## 🧪 Projects & Experiments Projec Network Defense (Blue Team) ts & Experiments
+ 
+### ⚙️ 1. Wazuh Lab Setup (SIEM & EDR Foundations) : [🔍 Wazuh EDR Lab](https://github.com/UVSasa/Wazuh-Siem)
+- Configuration of Wazuh Agent and manager
+- Setup of network components
+- Setup of netork environment
+- Installed and configured Sysmon for enriched Windows telemetry
+- Tuned default rules to reduce noise from legitiamte system activity
 
-### 🔍 1. Wazuh : [🔍 Wazuh EDR Lab](https://github.com/UVSasa/Wazuh-Siem)
-- Log Monitoring with Wazuh EDR
-- Vulnerability Detection
-- File Integrity Monitoring
+Network
 
-🧪 Projects & Experiments
-
-⚙️ 1. Wazuh Lab Setup (SIEM & EDR Foundations)
-	•	Set up the Wazuh Manager and connected Windows/macOS agents
-	•	Verified agent communication and alert generation
-	•	Tuned default rules to reduce noise from legitimate system activity
-	•	Installed and configured Sysmon for enriched Windows telemetry
-	•	Created custom rules in local_rules.xml
-
-⸻
-
-🛡️ 2. Network Defense (Blue Team)
+###🛡️ 2. Network Defense (Blue Team)
 	•	Log Monitoring: Tracked failed logins, privilege escalations (e.g., Event ID 4672), and unusual process activity
 	•	Vulnerability Detection: Used Wazuh’s vulnerability-detector to identify known CVEs on Windows endpoints
 	•	File Integrity Monitoring: Monitored system files and user directories for suspicious changes or DLL injections
