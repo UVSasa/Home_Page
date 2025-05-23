@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Home Lab - My First Security Repository
+# 🛡️ Cybersecurity Home Lab
 
 Welcome to my cybersecurity home lab! This repository documents my journey and projects as I build hands-on skills in cyber defense, monitoring, and offensive testing. The goal is to showcase real-world techniques and technologies used by SOC analysts, blue teamers, and ethical hackers.
 
