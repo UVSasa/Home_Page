@@ -6,7 +6,7 @@ Welcome to my cybersecurity home lab! This repository documents my journey and p
 
 ## 🧠 What I’m Learning
 
-- Setting up and configuring a SIEM/EDR (Security Information and Event Management/Endpoint Detection and Response) system using **Wazuh** and **ELK**
+- Setting up and configuring a SIEM/EDR (Security Information and Event Management/Endpoint Detection and Response) system using **Wazuh**
 - Monitoring endpoint logs from Windows and Linux systems
 - Performing file integrity monitoring (FIM), vulnerability detection, and user activity tracking
 - Running MITM (Man-in-the-Middle) attacks safely in an offline lab using **Kali Linux** and **Ettercap**
