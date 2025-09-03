@@ -44,7 +44,7 @@ Welcome to my cybersecurity home lab! This repository documents my journey and p
 - File Integrity Monitoring: Monitored system files and user directories for suspicious changes or DLL injections
 - Rule Tuning: Differentiated between benign system events and potential attacks (e.g., analyzing svchost and DLL creation)
 
-### ⚔️ 3. Offensive Security (Red Team)
+### ⚔️ 3. Offensive Security (Red Team):[🔍 Offensive Labs](https://github.com/UVSasa/Offensive-Security)
 - Reconnaissance & Information Gathering: Identified hosts, services, and open ports within the offline lab
 - Vulnerability Scanning & Analysis: Scanned targets using tools like Nmap and Nikto to enumerate weaknesses
 - Exploitation: Simulated attacks to test defensive visibility (e.g., MITM, DNS spoofing)
