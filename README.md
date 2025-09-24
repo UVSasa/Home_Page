@@ -57,7 +57,7 @@ Welcome to my cybersecurity home lab! This repository documents my journey and p
 
 Also I'll link any side labs I do or anything not specifically related to cyber security below
 
-### ⚙️ 5. Other Labs
+### ⚙️ 5. More Labs: [🧪 Other Labs](https://github.com/UVSasa/Other-Labs)
 
 
 
